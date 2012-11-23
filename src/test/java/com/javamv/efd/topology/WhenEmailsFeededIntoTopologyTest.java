@@ -23,7 +23,7 @@ import static org.junit.internal.matchers.IsCollectionContaining.hasItems;
  * Date: 11/23/12
  * Time: 11:23 AM
  */
-public class WhenEmailsFeededIntoTopology {
+public class WhenEmailsFeededIntoTopologyTest {
 
 	private MkClusterParam mkClusterParam;
 	private FraudDetectionTestJob testJob;
